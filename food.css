@@ -58,6 +58,9 @@ header {
     padding: 5px;
     border-radius: 5px;
 }
+#brand_btn:hover{
+  cursor: pointer;
+}
 .left {
   width: 40%;
   height: 65vh;
@@ -91,6 +94,11 @@ li{
 }
 .body--{
     padding: 5px;
+}
+.list{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
 }
 marquee{
   text-align: center;
